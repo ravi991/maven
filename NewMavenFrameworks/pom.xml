@@ -52,6 +52,7 @@
         <version>2.22.0</version>
         <configuration>
           <suiteXmlFiles>
+		  <testFailureIgnore> false </testFailureIgnore>
             <suiteXmlFile>XML Files/testng.xml</suiteXmlFile>
           </suiteXmlFiles>
         </configuration>
